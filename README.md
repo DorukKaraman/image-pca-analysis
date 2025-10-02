@@ -8,8 +8,7 @@ This repository demonstrates **Principal Component Analysis (PCA)** on RGB image
 
 image-pca-analysis/
 │
-├─ data/
-│   └─ images/        # Place your RGB images here (jpg/png)
+├─ data/    # Place your RGB images here (jpg/png)
 │
 ├─ eigenfaces_rgb_images.ipynb   # Main notebook
 └─ README.md
